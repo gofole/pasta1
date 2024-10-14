@@ -29,5 +29,5 @@ tarefas = ['lava_roupa','lava_carro','lava_prato', 'lava_parede','lava_chao']
 # tarefas.append('compra_carne')
 # tarefas.pop(2)
 #for num in range(1):
-    if tarefas 'lava_roupa'
+    if tarefas 'lav
         print('essa tarefa foi concluida ')
